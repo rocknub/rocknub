@@ -15,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/eisquezofrenia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="eisquezofrenia" height="30" width="40" /></a>
+<a href="https://twitter.com/planktondochaos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="eisquezofrenia" height="30" width="40" /></a>
 <a href="https://fb.com/brianmendesvnx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="brianmendesvnx" height="30" width="40" /></a>
 <a href="https://instagram.com/brianmendesvnx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="brianmendesvnx" height="30" width="40" /></a>
 <a href="https://discord.gg/Brian Mendes#2570" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Brian Mendes#2570" height="30" width="40" /></a>
