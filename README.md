@@ -1,11 +1,14 @@
 <h1 align="center">
   Olá, eu sou Brian Augusto Mendes Ferreira
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&size=25&duration=2500&pause=99999999999999&color=971ECA&background=EEFF5E00&vCenter=true&multiline=true&width=435&lines=e+sejam+bem+vindos+ao+meu+git!+%5E-%5E" style="pointer-events=none;" alt="" />
+  <a href="https://github.com/rocknub/" style="pointer-events: none; cursor: default;">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&size=25&duration=2500&pause=99999999999999&color=971ECA&background=EEFF5E00&vCenter=true&multiline=true&width=435&lines=e+sejam+bem+vindos+ao+meu+git!+%5E-%5E" alt="" />
   </a>
 </h1>
-<h3 align="center">Um desenvolvedor Junior em busca do conhecimento Web 💜</h3>
-<h2 align="center">Atualmente trabalho na Maxipas e faço faculdade de Jogos Digitais na PUC-PR</h2>
+
+<h3 align="center">
+  Um desenvolvedor Junior em busca do conhecimento Web 💜 <br>
+  Atualmente trabalho na Maxipas e faço faculdade de Jogos Digitais na PUC-PR
+</h3>
 
 - 🔭 Construindo um site de e-commerce.
 
