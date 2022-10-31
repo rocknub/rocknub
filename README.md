@@ -209,7 +209,7 @@
 
 <h3 align="center">Support:</h3>
 <p align="center">
-	<a href="https://www.buymeacoffee.com/brianmendesvnx" target="_blank">
+	<a href="https://www.buymeacoffee.com/brianmendesvnx" target="_blank" rel="noreferrer">
 		<img
 			align="center"
 			src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png"
