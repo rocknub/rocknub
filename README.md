@@ -207,7 +207,7 @@
 	</a>
 	<a href="https://make.com/en" target="_blank" rel="noreferrer">
 		<img
-		     src="https://images.ctfassets.net/qqlj6g4ee76j/4cnzmtI7JDKdedi00k5llA/230c63de09f8a2fa59f1e0f136794109/Frame.svg"
+		     src="https://cdn.make.com/img/make/make_app_white_logo.png"
 		     alt="make/integromat"
 		     width="40"
 		     height"40" />
