@@ -239,3 +239,7 @@
 		src="https://github-readme-stats.vercel.app/api/top-langs?username=rocknub&show_icons=true&theme=synthwave&title_color=c900cc&text_color=ffffff&bg_color=000000&locale=en&layout=compact"
 		alt="rocknub" />
 </p>
+<br>
+<p align="center">
+	<a href="https://app.daily.dev/brianmendesvnx"><img src="https://api.daily.dev/devcards/fe7fcbea41b740618e73ab31d7edad14.png?r=noa" width="400" alt="Brian Mendes's Dev Card"/></a>
+</p>
