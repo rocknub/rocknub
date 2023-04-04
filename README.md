@@ -14,12 +14,12 @@
 	Atualmente trabalho na Maxipas e faço faculdade de Jogos Digitais na PUC-PR
 </h3>
 
-- 🔭 Construindo um site de e-commerce. 
-- 🌱 Estou atualmente aprendendo sobre **HTML, CSS, JS, Firebase, React, MaterialUI, Tailwind.CSS (Sass também)**. 
+- 🔭 Projetos em pausa. 
+- 🌱 Estou atualmente aprendendo sobre **JS, Firebase, React, MaterialUI, Tailwind.CSS (Sass também)**. 
 - 👨‍💻 Todos meus projetos estão disponíveis no Github mas em breve portfólio :D [https://github.com/rocknub](https://github.com/rocknub). 
 - 💬 Sobre mim: **sou aspirante á desenvolvedor pleno tanto na área de aplicações gerais, quanto web e por último mas não menos importante jogos! Sou apaixonado por tecnologia desde meus 2-3 anos de idade, onde tive o primeiro contato com elas. Atualmente tenho conhecimento em tecnologias como ASP.NET, WEB e Unity. Amo conversar sobre questões filosóficas que remetem a realidade e seus inúmeros questionamentos.**
 - 📫 Para entrar em contato: **brian.mendes.f@gmail.com (Assuntos Pessoais) - brian.mendes.f@hotmail.com (Assuntos Comerciais)**. 
-- ⚡ Fato engraçado: **a maior parte do tempo fica conversando com meu pato de borracha pra encontrar soluções e melhorias em meus trabalhos .-.**
+- ⚡ Fato engraçado: **eu converso com um pato de borracha. e.e**
 
 <h3 align="center">Minhas redes sociais:</h3>
 <p align="center">
