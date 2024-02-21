@@ -241,5 +241,5 @@
 </p>
 <br>
 <p align="center">
-	<a href="https://app.daily.dev/brianmendesvnx"><img src="https://api.daily.dev/devcards/fe7fcbea41b740618e73ab31d7edad14.png?r=noa" width="400" alt="Brian Mendes's Dev Card"/></a>
+	<a href="https://app.daily.dev/brianmendesvnx"><img src="https://api.daily.dev/devcards/v2/F389WoVvvcCg2hXSFqOEg.png?type=default&r=mxc" width="356" alt="Brian Mendes's Dev Card"/></a>
 </p>
