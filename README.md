@@ -10,7 +10,7 @@
 </h1>
 
 <h3 align="center">
-	Um desenvolvedor Junior em busca do conhecimento Web 💜 <br />
+	Um desenvolvedor em busca do conhecimento Web 💜 <br />
 	Atualmente trabalho na Maxipas e faço faculdade de Jogos Digitais na PUC-PR
 </h3>
 
