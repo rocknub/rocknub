@@ -15,7 +15,7 @@
 </h3>
 
 - 🔭 Projetos em atual desenvolvimento: App Maxipas. 
-- 🌱 Estou atualmente aprimorando meu conhecimento em **JS, React, Tailwind.CSS**. 
+- 🌱 Estou atualmente aprimorando meu conhecimento em **React, NextJS, Tailwind.CSS**. 
 - 👨‍💻 Todos meus projetos estão disponíveis no Github mas em breve portfólio :D [https://github.com/rocknub](https://github.com/rocknub). 
 - 💬 Sobre mim: **Sou apaixonado por tecnologia desde meus 2-3 anos de idade, onde tive o primeiro contato com elas. Amo conversar sobre questões filosóficas que remetem a realidade e seus inúmeros questionamentos.**
 - 📫 Para entrar em contato: **brian.mendes.f@gmail.com (Assuntos Pessoais) - brian.mendes.f@hotmail.com (Assuntos Comerciais)**. 
