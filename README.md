@@ -14,7 +14,7 @@
 	Atualmente trabalho na Maxipas e faço faculdade de Jogos Digitais na PUC-PR
 </h3>
 
-- 🔭 Projetos em atual desenvolvimento: App Maxipas. 
+- 🔭 Projetos em atual desenvolvimento: App Maxipas & Portfolio. 
 - 🌱 Estou atualmente aprimorando meu conhecimento em **Design UX/UI, GSAP para Motion Design/Animation, React/NextJS com TailwindCSS**. 
 - 👨‍💻 Todos meus projetos estão disponíveis no Github mas em breve portfólio :D [https://github.com/rocknub](https://github.com/rocknub). 
 - 💬 Sobre mim: **Sou apaixonado por tecnologia desde meus 2-3 anos de idade, onde tive o primeiro contato com elas. Amo conversar sobre questões filosóficas que remetem a realidade e seus inúmeros questionamentos.**
