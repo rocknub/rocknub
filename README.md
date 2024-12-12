@@ -1,5 +1,5 @@
 <h1 align="center">
-	Olá, eu sou Brian Augusto Mendes Ferreira
+	Olá, eu sou o Brian Augusto Mendes Ferreira
 	<a
 		href="https://github.com/rocknub/"
 		style="pointer-events: none; cursor: default">
@@ -14,12 +14,12 @@
 	Atualmente trabalho na Maxipas e faço faculdade de Jogos Digitais na PUC-PR
 </h3>
 
-- 🔭 **Projects currently in development**: Maxipas App, Portfolio Website and a eCommerce.
-- 💬 **About me**: I have been passionate about technology since I was 3 years old, when I first came in contact with it. I love discussing philosophical questions that refer to - reality and its numerous inquiries.
-- ⚡ **Funny fact**: I talk to a rubber duck.
-- 🌱 I am currently enhancing my knowledge in **NextJS** and **Vue3 (Nuxt)**, **Design and Web Animation** as well.
-- 📫 **To get in touch**: brian.mendes.f@gmail.com (Personal Matters) - brianmendes@wondher.dev (Business Matters).
-- 👨‍💻 All my projects are available on Github (https://github.com/rocknub) but my portfolio and contact site is coming soon :D.
+- 🔭 **Projetos atualmente em desenvolvimento**: Maxipas App, Website de Portfólio e um eCommerce.
+- 🌱 **O que estou estudando**: atualmente estou aprimorando meus conhecimentos em NextJS e Vue3 (Nuxt), Design e Animação Web também.
+- 💬 **Sobre mim**: Sou apaixonado por tecnologia desde os 3 anos de idade, quando tive meu primeiro contato com ela. Adoro discutir questões filosóficas que se referem à realidade e suas inúmeras indagações.
+- ⚡ **Fato engraçado**: Eu converso com um pato de borracha.
+- 📫 **Para entrar em contato**: brian.mendes.f@gmail.com (Assuntos Pessoais) - brianmendes@wondher.dev (Assuntos Profissionais).
+- 👨‍💻 *Todos os meus projetos estão disponíveis no Github (https://github.com/rocknub), mas meu site de portfólio e contato está chegando em breve :D*.
 
 <h3 align="center">Minhas redes sociais:</h3>
 <p align="center">
