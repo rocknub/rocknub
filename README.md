@@ -14,12 +14,12 @@
 	Atualmente trabalho na Maxipas e faço faculdade de Jogos Digitais na PUC-PR
 </h3>
 
-- 🔭 Projetos em atual desenvolvimento: App Maxipas & Portfolio!
-- 🌱 Estou atualmente aprimorando meu conhecimento em **Design UX/UI, GSAP para Motion Design/Animation, React/NextJS com TailwindCSS**. 
-- 👨‍💻 Todos meus projetos estão disponíveis no Github mas em breve portfólio :D [https://github.com/rocknub](https://github.com/rocknub). 
-- 💬 Sobre mim: **Sou apaixonado por tecnologia desde meus 2-3 anos de idade, onde tive o primeiro contato com elas. Amo conversar sobre questões filosóficas que remetem a realidade e seus inúmeros questionamentos.**
-- 📫 Para entrar em contato: **brian.mendes.f@gmail.com (Assuntos Pessoais) - brian.mendes.f@hotmail.com (Assuntos Comerciais)**. 
-- ⚡ Fato engraçado: **eu converso com um pato de borracha.**
+- 🔭 Projects currently in development: **Maxipas App, Portfolio Website and a eCommerce**.
+- 🌱 I am currently enhancing my knowledge in **NextJS** and **Vue3 (Nuxt)**, **Design and Web Animation** as well.
+- 👨‍💻 All my projects are available on Github (https://github.com/rocknub) but my portfolio and contact site is coming soon :D.
+- 💬 About me: **I have been passionate about technology since I was 3 years old, when I first came in contact with it. I love discussing philosophical questions that refer to - reality and its numerous inquiries**.
+- 📫 To get in touch: **brian.mendes.f@gmail.com (Personal Matters)** - **brianmendes@wondher.dev (Business Matters)**.
+- ⚡ Funny fact: **I talk to a rubber duck**.
 
 <h3 align="center">Minhas redes sociais:</h3>
 <p align="center">
